@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+brach feature1
+
+
+modify
+test
+=======
+branch feature1
+
+modify
+
+modify
+>>>>>>> feature1
